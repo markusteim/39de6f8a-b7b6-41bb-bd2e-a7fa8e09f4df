@@ -120,19 +120,19 @@ ORDER BY
 
 
 ## Positive:
-- Career Advancement: Students praise the career centers for their effectiveness in providing job and internship opportunities, with one student securing a full-time position as a press aide to a congressman.
-- Networking Success: The university's location in D.C. is highlighted as a key factor for networking, with students attending balls at embassies and meeting ambassadors.
-- Influential Faculty: Professors with backgrounds as ambassadors and leaders in their fields are seen as providing valuable insights and connections.
-- Internship Abundance: The proximity to government and international affairs opportunities in D.C. is appreciated, with students gaining internships at places like Capitol Hill.
-- Leadership Development: Programs like the School of Public Affairs Leadership Program are commended for developing students' leadership skills.
+- **Career Advancement:** Students praise the career centers for their effectiveness in providing job and internship opportunities, with one student securing a full-time position as a press aide to a congressman.
+- **Networking Success:** The university's location in D.C. is highlighted as a key factor for networking, with students attending balls at embassies and meeting ambassadors.
+- **Influential Faculty:** Professors with backgrounds as ambassadors and leaders in their fields are seen as providing valuable insights and connections.
+- **Internship Abundance:** The proximity to government and international affairs opportunities in D.C. is appreciated, with students gaining internships at places like Capitol Hill.
+- **Leadership Development:** Programs like the School of Public Affairs Leadership Program are commended for developing students' leadership skills.
 
 
 ## Negative:
-- Financial Struggles: Some students face difficulties with financial aid, with reports of aid being reduced or appeals being rejected.
-- Strict Policies: There are complaints about strict enforcement of rules, particularly regarding alcohol in dorms and the creation of new clubs.
-- Unpaid Internships: The prevalence of unpaid internships in the city is a concern for some students.
-- Faculty Issues: A few students report negative experiences with professors who are described as rude or condescending.
-- Social Challenges: Some students feel excluded from social groups or face a toxic campus climate.
+- **Financial Struggles:** Some students face difficulties with financial aid, with reports of aid being reduced or appeals being rejected.
+- **Strict Policies:** There are complaints about strict enforcement of rules, particularly regarding alcohol in dorms and the creation of new clubs.
+- **Unpaid Internships:** The prevalence of unpaid internships in the city is a concern for some students.
+- **Faculty Issues:** A few students report negative experiences with professors who are described as rude or condescending.
+- **Social Challenges:** Some students feel excluded from social groups or face a toxic campus climate.
 
 
 <br>

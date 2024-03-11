@@ -18,13 +18,12 @@
 6. Impressions (<Value data={category_propositions} column=percentage row=5/>%)
 7. Safety (<Value data={category_propositions} column=percentage row=6/>%)
 8. Self-worth, pride & self-awareness (<Value data={category_propositions} column=percentage row=7/>%)
-9. Sexual (<Value data={category_propositions} column=percentage row=8/>%)
-10. Smells (<Value data={category_propositions} column=percentage row=9/>%)
-11. Sounds (<Value data={category_propositions} column=percentage row=10/>%)
-12. Tastes (<Value data={category_propositions} column=percentage row=11/>%)
-13. Value & values (<Value data={category_propositions} column=percentage row=12/>%)
-14. Visibility (<Value data={category_propositions} column=percentage row=13/>%)
-15. Well-being (<Value data={category_propositions} column=percentage row=14/>%)
+9. Smells (<Value data={category_propositions} column=percentage row=8/>%)
+10. Sounds (<Value data={category_propositions} column=percentage row=9/>%)
+11. Tastes (<Value data={category_propositions} column=percentage row=10/>%)
+12. Value & values (<Value data={category_propositions} column=percentage row=11/>%)
+13. Visibility (<Value data={category_propositions} column=percentage row=12/>%)
+14. Well-being (<Value data={category_propositions} column=percentage row=13/>%)
 
 # Summary
 

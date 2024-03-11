@@ -112,14 +112,14 @@ ORDER BY
 
 
 ## Positive:
-- Fresh Environment: The university offers a breath of fresh air, providing a sense of cleanliness and openness.
+- **Fresh Environment:** The university offers a breath of fresh air, providing a sense of cleanliness and openness.
 
 
 ## Negative:
-- Dorm Odors: A strong whiff of marijuana occasionally emanates from dorm rooms, causing discomfort to passersby.
-- Entrance Smoke: Students smoking right next to building entrances create an unwelcoming atmosphere.
-- Smoker Presence: The campus has a noticeable number of smokers, which can be irritating to non-smokers.
-- Intermittent Smoking: Even occasional smoking by people around the campus is a source of annoyance.
+- **Dorm Odors:** A strong whiff of marijuana occasionally emanates from dorm rooms, causing discomfort to passersby.
+- **Entrance Smoke:** Students smoking right next to building entrances create an unwelcoming atmosphere.
+- **Smoker Presence:** The campus has a noticeable number of smokers, which can be irritating to non-smokers.
+- **Intermittent Smoking:** Even occasional smoking by people around the campus is a source of annoyance.
 
 
 <br>

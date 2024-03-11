@@ -120,20 +120,20 @@ ORDER BY
 
 ## Positive:
 
-- Spacious Accommodations: Students appreciate the larger-than-average room sizes, with ample built-in storage and comfortable living spaces.
-- Clean Facilities: Many reviews highlight the cleanliness of dorms, bathrooms, and public areas, noting daily cleaning routines.
-- Climate Control: The ability to control room temperature with AC/heating units is praised, as well as the mildness of the DC weather compared to other regions.
-- Well-Maintained Gyms: The new Cassell gym and other athletic facilities receive commendations for being in great condition and well-kept.
-- Pleasant Environment: The campus is described as clean and well-maintained, contributing to a comfortable and enjoyable atmosphere for students.
+- **Spacious Accommodations:** Students appreciate the larger-than-average room sizes, with ample built-in storage and comfortable living spaces.
+- **Clean Facilities:** Many reviews highlight the cleanliness of dorms, bathrooms, and public areas, noting daily cleaning routines.
+- **Climate Control:** The ability to control room temperature with AC/heating units is praised, as well as the mildness of the DC weather compared to other regions.
+- **Well-Maintained Gyms:** The new Cassell gym and other athletic facilities receive commendations for being in great condition and well-kept.
+- **Pleasant Environment:** The campus is described as clean and well-maintained, contributing to a comfortable and enjoyable atmosphere for students.
 
 
 ## Negative:
 
-- Cramped Quarters: Complaints about overcrowded rooms, especially when three people are squeezed into spaces meant for two, are common.
-- Pest Problems: Several reviews mention issues with cockroaches, mice, and rats in dorms, which significantly detract from the living experience.
-- Weather Woes: The unpredictability of DC weather, including humidity, rain, and temperature fluctuations, is a source of discomfort for some.
-- Inadequate Facilities: Students note that some facilities, like the gym, are too small for the student body, and there are reports of malfunctioning appliances.
-- Sanitation Concerns: Cleanliness is inconsistent, with some areas being well-maintained while others suffer from neglect, leading to unsanitary conditions.
+- **Cramped Quarters:** Complaints about overcrowded rooms, especially when three people are squeezed into spaces meant for two, are common.
+- **Pest Problems:** Several reviews mention issues with cockroaches, mice, and rats in dorms, which significantly detract from the living experience.
+- **Weather Woes:** The unpredictability of DC weather, including humidity, rain, and temperature fluctuations, is a source of discomfort for some.
+- **Inadequate Facilities:** Students note that some facilities, like the gym, are too small for the student body, and there are reports of malfunctioning appliances.
+- **Sanitation Concerns:** Cleanliness is inconsistent, with some areas being well-maintained while others suffer from neglect, leading to unsanitary conditions.
 
 
 <br>
