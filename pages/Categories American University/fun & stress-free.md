@@ -1,6 +1,6 @@
-```sql summaries
- select * from hotels.summaries 
- ```
+# *Confidential and Proprietary Information of SentiScope Ltd., reg. number 14688394. Unauthorized use or disclosure is prohibited.*
+
+
  
 # Summary
 

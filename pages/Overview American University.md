@@ -1,3 +1,5 @@
+# *Confidential and Proprietary Information of SentiScope Ltd., reg. number 14688394. Unauthorized use or disclosure is prohibited.*
+
 
 # Overview American University
 
